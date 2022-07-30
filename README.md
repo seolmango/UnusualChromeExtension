@@ -4,6 +4,8 @@
 
 수정 및 배포도 가능합니다만 이 코드를 악용하여 남의 컴퓨터나 웹 서핑에 회복할 수 없는 수준의 피해를 주는 프로그램은 만들지 말아주세요. <del>기분이 더럽거든요</del>
 
+[License](https://github.com/seolmango/UnusualChromeExtension/blob/main/License)
+
 ## 사용방법
 
 아래의 순서를 잘 따라해주시기 바랍니다.
